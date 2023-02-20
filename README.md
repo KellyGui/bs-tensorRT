@@ -12,4 +12,9 @@ mkdir build&&cd build
 cmake ..
 make
 ```
+### 3. run
+```
+../bin/serialize -s //generate engine file
+../bin/inference ./deeplabv3plus.engine ./ ./   //run inference
+```
        
