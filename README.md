@@ -1,5 +1,5 @@
 # bs-tensorRT
-This project implements the deeplabv3+ netowrk with TensorRT API for saving time and resources.
+This project implements the deeplabv3+ network with the TensorRT API for saving time and resources.
 The ArgMax is made as a plugin which supports both dynamic shape and fixed shape.
 
 ## How to build
